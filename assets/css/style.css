@@ -1,0 +1,28 @@
+i {
+  font-size:  8px;
+}
+
+/*  SELECTOR POR CLASE*/
+.numerosVerdes {
+    font-size: 1em:
+    color:#28A745;
+  }
+
+ .form {
+    background-color: #28A745;
+    color: white;
+  }
+  
+  .miParrafo {
+    color: red;
+    font-size: 0.6em;
+    display: inline-block;
+  }
+  
+  
+  
+  /*SELECTOR POR ID */
+  #tituloFooter {
+    text-align: center;
+  }
+  
